@@ -1,0 +1,201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Login Popup and Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-14 09:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: includes/settings/settings-tab.php:109
+msgid "Add Custom CSS code here to style the display on your preference."
+msgstr ""
+
+#: includes/form-register.php:46
+msgid "Anti-spam"
+msgstr ""
+
+#: includes/settings/settings-tab.php:92
+msgid "Background Image"
+msgstr ""
+
+#: includes/settings/settings-tab.php:87
+msgid ""
+"Check this option to automatically add the modal popup on wp_footer hook and "
+"toggle when element with <code>woo-login-popup-sc-open</code> class has been "
+"clicked."
+msgstr ""
+
+#: includes/settings/settings-tab.php:105
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/settings/settings-tab.php:68
+msgid ""
+"Customize the login screen using the option provided below. You can also add "
+"you own CSS styling using the provided field for custom CSS code."
+msgstr ""
+
+#: includes/settings/settings-tab.php:125
+msgid ""
+"Did you know that you know that you can target specific type when you are "
+"opening the popup using menu link? Simple add any of the following as URL or "
+"HREF value : <br />#woo-login-popup-sc-login <br />#woo-login-popup-sc-"
+"register <br />#woo-login-popup-sc-password"
+msgstr ""
+
+#: includes/form-register.php:32
+msgid "Email Address"
+msgstr ""
+
+#: includes/settings/settings-tab.php:83
+msgid "Enable Popup"
+msgstr ""
+
+#: includes/form-lost-password.php:32
+msgid "Get New Password"
+msgstr ""
+
+#: includes/settings/settings-tab.php:122
+msgid "Helpful Guides"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://phpbits.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-login-popup-and-shortcodes/"
+msgstr ""
+
+#: includes/notices.php:33
+msgid "I already did"
+msgstr ""
+
+#: includes/form-login.php:39 includes/form-lost-password.php:35
+#: includes/form-register.php:59
+msgid "Log In"
+msgstr ""
+
+#: includes/form-login.php:15
+msgid "Login"
+msgstr ""
+
+#: includes/settings/settings-tab.php:22 includes/settings/settings-tab.php:23
+msgid "Login Popup"
+msgstr ""
+
+#: includes/form-login.php:45 includes/form-register.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/form-lost-password.php:19
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: includes/shortcodes.php:65
+msgid "Navigation"
+msgstr ""
+
+#: includes/notices.php:34
+msgid "No, not good enough, i do not like to rate it!"
+msgstr ""
+
+#: includes/notices.php:32
+msgid "Ok, you deserved it"
+msgstr ""
+
+#: includes/form-login.php:26 includes/form-register.php:39
+msgid "Password"
+msgstr ""
+
+#. Author of the plugin
+msgid "Phpbits Creative Studio"
+msgstr ""
+
+#: includes/form-login.php:43 includes/form-lost-password.php:37
+#: includes/form-register.php:16 includes/form-register.php:53
+msgid "Register"
+msgstr ""
+
+#: includes/form-login.php:36
+msgid "Remember me"
+msgstr ""
+
+#: includes/settings/settings-tab.php:97
+msgid "Remove Background Image"
+msgstr ""
+
+#: includes/form-lost-password.php:15
+msgid "Reset Password"
+msgstr ""
+
+#: includes/settings/settings-tab.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings/settings-tab.php:95
+msgid "Select or Upload Background Image"
+msgstr ""
+
+#: includes/settings/settings-tab.php:95
+msgid "Select or Upload Image"
+msgstr ""
+
+#: includes/install.php:15
+msgid "Settings"
+msgstr ""
+
+#: includes/settings/settings-tab.php:114
+msgid "Shortcode"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple Modal Login Page & Shortcode for WooCommerce."
+msgstr ""
+
+#: includes/settings/settings-tab.php:63
+msgid "Support"
+msgstr ""
+
+#: includes/settings/settings-tab.php:117
+msgid ""
+"Use <code>[woo-login-popup]</code> to automatically display the login and "
+"registration box anywhere."
+msgstr ""
+
+#: includes/settings/settings-tab.php:95
+msgid "Use as Background"
+msgstr ""
+
+#: includes/form-register.php:25
+msgid "Username"
+msgstr ""
+
+#: includes/form-login.php:22 includes/form-lost-password.php:22
+msgid "Username or Email Address"
+msgstr ""
+
+#: includes/settings/settings-tab.php:62
+msgid "WooCommerce Login Popup & Shortcodes"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Login Popup and Shortcodes"
+msgstr ""
+
+#: includes/shortcodes.php:66
+msgid ""
+"You have successfully loggedin! Use the links below to navigate through your "
+"accounts pages."
+msgstr ""

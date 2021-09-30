@@ -1,0 +1,3104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product_number><![CDATA[]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[]]></name_bg>
+		<name_en><![CDATA[]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[ширина/дълбочина/височина]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[]]></brand_name_bg>
+		<brand_name_en><![CDATA[]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[]]></country_of_origin_en>
+		<category_bg><![CDATA[]]></category_bg>
+		<category_en><![CDATA[]]></category_en>
+		<description_bg><![CDATA[]]></description_bg>
+		<description_en><![CDATA[]]></description_en>
+		<ingredients_bg><![CDATA[]]></ingredients_bg>
+		<ingredients_en><![CDATA[]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[]]></durability_days>
+		<storage_bg><![CDATA[]]></storage_bg>
+		<storage_en><![CDATA[]]></storage_en>
+		<price_per_piece><![CDATA[]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1114]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002611]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен Айвар по традиционна македонска рецепта с печени червени чушки и патладжани. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло и морска сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, sunflower oil, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[185]]></kcal>
+		<fat><![CDATA[14]]></fat>
+		<fat_saturated><![CDATA[1.3]]></fat_saturated>
+		<carbohydrates><![CDATA[10.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.6]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.4]]></protein>
+		<salt><![CDATA[1.8]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1113]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002635]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен Айвар по традиционна македонска рецепта с печени червени чушки и патладжани. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло и морска сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, sunflower oil, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[185]]></kcal>
+		<fat><![CDATA[14]]></fat>
+		<fat_saturated><![CDATA[1.3]]></fat_saturated>
+		<carbohydrates><![CDATA[10.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.6]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.4]]></protein>
+		<salt><![CDATA[1.8]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.69]]></price_per_piece>
+		<price_per_box><![CDATA[92.28 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[46.14 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1122]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002628]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's, лют]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен пикантен Айвар по традиционна македонска рецепта с печени червени чушки, патладжани и феферони. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. The hot aivar contains chilly feferoni peppers. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, sunflower oil, sea salt, hot fefferoni]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[186]]></kcal>
+		<fat><![CDATA[13.4]]></fat>
+		<fat_saturated><![CDATA[1.3]]></fat_saturated>
+		<carbohydrates><![CDATA[13]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.8]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.1]]></protein>
+		<salt><![CDATA[0.8]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1121]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002642]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's, лют]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен пикантен Айвар по традиционна македонска рецепта с печени червени чушки, патладжани и феферони. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. The hot aivar contains chilly feferoni peppers. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, sunflower oil, sea salt, hot fefferoni]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[186]]></kcal>
+		<fat><![CDATA[13.4]]></fat>
+		<fat_saturated><![CDATA[1.3]]></fat_saturated>
+		<carbohydrates><![CDATA[13]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.8]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.1]]></protein>
+		<salt><![CDATA[0.8]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.69]]></price_per_piece>
+		<price_per_box><![CDATA[92.28 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[46.14 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1118]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002659]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's, EXTRA HOT]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's, extrahot]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен екстра пикантен Айвар по традиционна македонска рецепта с печени червени чушки, патладжани и феферони. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. The hot aivar contains chilly feferoni peppers. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло, морска сол и много феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, sunflower oil, sea salt, hot fefferoni]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[185]]></kcal>
+		<fat><![CDATA[14]]></fat>
+		<fat_saturated><![CDATA[1.3]]></fat_saturated>
+		<carbohydrates><![CDATA[10.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.6]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.4]]></protein>
+		<salt><![CDATA[1.8]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.99]]></price_per_piece>
+		<price_per_box><![CDATA[95.88 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[47.94 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1125]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002697]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Mama's, лют със сирене ТОФУ]]></name_bg>
+		<name_en><![CDATA[Home Style Ajvar Mama's, hot with tofu]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашен пикантен Айвар по традиционна македонска рецепта с печени червени чушки, патладжани, соево сирене Тофу и феферони. 100% натурален, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Ajvar is a relish made from only 4 igredients- roasted pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. This ajvar contains contains chilly feferoni peppers and tofu cheese. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, печен патладжан, слънчогледово масло, морска сол, феферони и соево сирене]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted red pepper, roasted eggplant, hot fefferoni, soy cheese, sunflower oil, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа соя]]></allergens_bg>
+		<allergens_en><![CDATA[contains soy]]></allergens_en>
+		<kcal><![CDATA[242.25]]></kcal>
+		<fat><![CDATA[18.5]]></fat>
+		<fat_saturated><![CDATA[3.76]]></fat_saturated>
+		<carbohydrates><![CDATA[14.85]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[11]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[13.84]]></protein>
+		<salt><![CDATA[2.23]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.99]]></price_per_piece>
+		<price_per_box><![CDATA[95.88 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[47.94 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1128]]></product_number>
+		<barcode_per_piece><![CDATA[5319990748164]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашно Малиджано Mama's]]></name_bg>
+		<name_en><![CDATA[Home Style Malizzano Mama's]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашно Малиджано по традиционна македонска рецепта с печени зелени чушки и патладжани. 100% натуралнo, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Malizzano is a relish made from only 4 igredients- roasted green pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена зелена чушка, печен патладжан, слънчогледово масло и морска сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted green pepper, roasted eggplant, sunflower oil, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[232]]></kcal>
+		<fat><![CDATA[18]]></fat>
+		<fat_saturated><![CDATA[1.9]]></fat_saturated>
+		<carbohydrates><![CDATA[14]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.9]]></protein>
+		<salt><![CDATA[1.7]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1130]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002666]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашно Малиджано Mama's]]></name_bg>
+		<name_en><![CDATA[Home Style Malizzano Mama's]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашно Малиджано по традиционна македонска рецепта с печени зелени чушки и патладжани. 100% натуралнo, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Malizzano is a relish made from only 4 igredients- roasted green pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена зелена чушка, печен патладжан, слънчогледово масло и морска сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted green pepper, roasted eggplant, sunflower oil, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[232]]></kcal>
+		<fat><![CDATA[18]]></fat>
+		<fat_saturated><![CDATA[1.9]]></fat_saturated>
+		<carbohydrates><![CDATA[14]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.9]]></protein>
+		<salt><![CDATA[1.7]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.69]]></price_per_piece>
+		<price_per_box><![CDATA[92.28 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[46.14 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1133]]></product_number>
+		<barcode_per_piece><![CDATA[5310146001485]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашно Малиджано Mama's, люто]]></name_bg>
+		<name_en><![CDATA[Home Style Malizzano Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашно пикантно Малиджано по традиционна македонска рецепта с печени зелени чушки,патладжани и феферони. 100% натуралнo, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Malizzano is a relish made from only 4 igredients- roasted green pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. The hot malizzano contains chilly feferoni peppers. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена зелена чушка, печен патладжан, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted green pepper, roasted eggplant, sunflower oil, sea salt,  hot fefferoni]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[208]]></kcal>
+		<fat><![CDATA[17]]></fat>
+		<fat_saturated><![CDATA[1.6]]></fat_saturated>
+		<carbohydrates><![CDATA[11]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[2.9]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.9]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1134]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002673]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашно Малиджано Mama's, люто]]></name_bg>
+		<name_en><![CDATA[Home Style Malizzano Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашно пикантно Малиджано по традиционна македонска рецепта с печени зелени чушки, патладжани и феферони. 100% натуралнo, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Malizzano is a relish made from only 4 igredients- roasted green pepper, roasted eggplant, sunflower oil and sea salt, according to traditional recipe. The hot malizzano contains chilly feferoni peppers. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена зелена чушка, печен патладжан, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted green pepper, roasted eggplant, sunflower oil, sea salt,  hot fefferoni]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[208]]></kcal>
+		<fat><![CDATA[17]]></fat>
+		<fat_saturated><![CDATA[1.6]]></fat_saturated>
+		<carbohydrates><![CDATA[11]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[2.9]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.9]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.69]]></price_per_piece>
+		<price_per_box><![CDATA[92.28 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[46.14 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1127]]></product_number>
+		<barcode_per_piece><![CDATA[5319990748157]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашна Македонска Лютеница Mama's, пикантна]]></name_bg>
+		<name_en><![CDATA[Home Style Lutenica Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Лютеници]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашна пикантна лютеница по традиционна македонска рецепта с печени червени чушки и домати. 100% натурална, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Homemade Ljutenica is a relish made from roasted red pepper, tomatoes, sunflower oil and sea salt and chilly peppers according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, домат, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted pepper, tomato paste, sunflower oil, hot fefferoni, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[235]]></kcal>
+		<fat><![CDATA[3.5]]></fat>
+		<fat_saturated><![CDATA[0.4]]></fat_saturated>
+		<carbohydrates><![CDATA[12]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[5.8]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.9]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1126]]></product_number>
+		<barcode_per_piece><![CDATA[5310146001874]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашна Македонска Лютеница Mama's, пикантна]]></name_bg>
+		<name_en><![CDATA[Home Style Lutenica Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[290]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Лютеници]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Домашна пикантна лютеница по традиционна македонска рецепта с печени червени чушки и домати. 100% натурална, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Homemade Ljutenica is a relish made from roasted red pepper, tomatoes, sunflower oil and sea salt and chilly peppers according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, домат, слънчогледово масло, морска сол и феферони]]></ingredients_bg>
+		<ingredients_en><![CDATA[roasted pepper, tomato paste, sunflower oil, hot fefferoni, sea salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[235]]></kcal>
+		<fat><![CDATA[3.5]]></fat>
+		<fat_saturated><![CDATA[0.4]]></fat_saturated>
+		<carbohydrates><![CDATA[12]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[5.8]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.9]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[7.99]]></price_per_piece>
+		<price_per_box><![CDATA[95.88 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[47.94 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1136]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002581]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашни Бейби Корнишони Mama's ]]></name_bg>
+		<name_en><![CDATA[Traditionally prepared baby gherkins Mama's]]></name_en>
+		<weight_grams><![CDATA[550]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Хрупкави, ръчно подбрани бейби корнишони по традиционна македонска рецепта с подправки. 100% натурални, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Baby Gherkins is a pickle made from Gherkins, water, acetic acid, sugar, salt, dill, onion, mustard seed and black pepper according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[краставички, вода, оцет, захар, морска сол, копър, лук, синапено семе, черен пипер]]></ingredients_bg>
+		<ingredients_en><![CDATA[baby gherkins, water, acetic acid, sugar, salt, dill, onion, mustard seed, black pepper]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа синап]]></allergens_bg>
+		<allergens_en><![CDATA[contains mustard seed]]></allergens_en>
+		<kcal><![CDATA[24]]></kcal>
+		<fat><![CDATA[0.03]]></fat>
+		<fat_saturated><![CDATA[0.01]]></fat_saturated>
+		<carbohydrates><![CDATA[3.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2]]></protein>
+		<salt><![CDATA[1.5]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[4.95]]></price_per_piece>
+		<price_per_box><![CDATA[59.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[29.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1178]]></product_number>
+		<barcode_per_piece><![CDATA[5310146005704]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашни Кисели Краставички Mama's ]]></name_bg>
+		<name_en><![CDATA[Traditionally prepared pickles Mama's]]></name_en>
+		<weight_grams><![CDATA[680]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/15]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/15.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Хрупкави кисели краставички, приготвени по традиционна македонска рецепта. 100% натурални, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Pickles made from Gherkins, water, acetic acid, sugar, salt, dill, onion, mustard seed and black pepper according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[краставички, вода, оцет, захар, морска сол, копър, лук, чесън, синапено семе, черен пипер]]></ingredients_bg>
+		<ingredients_en><![CDATA[gherkins, water, acetic acid, sugar, salt, dill, onion, garlic, mustard seed, black pepper]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа синап]]></allergens_bg>
+		<allergens_en><![CDATA[contains mustard seed]]></allergens_en>
+		<kcal><![CDATA[24]]></kcal>
+		<fat><![CDATA[0.03]]></fat>
+		<fat_saturated><![CDATA[0.01]]></fat_saturated>
+		<carbohydrates><![CDATA[3.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2]]></protein>
+		<salt><![CDATA[1.5]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[4.75]]></price_per_piece>
+		<price_per_box><![CDATA[57.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[28.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1188]]></product_number>
+		<barcode_per_piece><![CDATA[5310146005735]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашни Кисели Краставички Mama's, пикантни ]]></name_bg>
+		<name_en><![CDATA[Traditionally prepared pickles Mama's, hot]]></name_en>
+		<weight_grams><![CDATA[680]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/15]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/15.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Хрупкави и леко пикантни кисели краставички, приготвени по традиционна македонска рецепта. 100% натурални, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Hot pickles made from Gherkins, water, acetic acid, sugar, salt, dill, onion, mustard seed and black pepper according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[краставички, вода, оцет, захар, морска сол, копър, лук, чесън, синапено семе, черен пипер, лют пипер]]></ingredients_bg>
+		<ingredients_en><![CDATA[gherkins, water, acetic acid, sugar, salt, dill, onion, garlic, mustard seed, black pepper, hot pepper]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа синап]]></allergens_bg>
+		<allergens_en><![CDATA[contains mustard seed]]></allergens_en>
+		<kcal><![CDATA[24]]></kcal>
+		<fat><![CDATA[0.03]]></fat>
+		<fat_saturated><![CDATA[0.01]]></fat_saturated>
+		<carbohydrates><![CDATA[3.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2]]></protein>
+		<salt><![CDATA[1.5]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[4.75]]></price_per_piece>
+		<price_per_box><![CDATA[57.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[28.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1138]]></product_number>
+		<barcode_per_piece><![CDATA[5310146002420]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Печен боб Тавче Гравче Mama's]]></name_bg>
+		<name_en><![CDATA[Home Style Baked Beans Tavche Gravche Mama's]]></name_en>
+		<weight_grams><![CDATA[600]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[9.5/9.5/11]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[27/37/12]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Печен Боб Тавче Гравче по традиционна македонска рецепта с бял боб и червен пипер. 100% натурално, VEGAN, KOSHER, HALAL]]></description_bg>
+		<description_en><![CDATA[Homestyle baked beans "Tavche Gravche" is made from beans, onion, red chili pepper powder, sunflower oil, sea salt according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[бял боб 63%, лук, пикантен червен пипер, слънчогледово олио и морска сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[beans 63%, onion, sunflower oil, red chili pepper powder, salt, black pepper, water]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[137]]></kcal>
+		<fat><![CDATA[3.6]]></fat>
+		<fat_saturated><![CDATA[0.4]]></fat_saturated>
+		<carbohydrates><![CDATA[19.3]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[6.8]]></protein>
+		<salt><![CDATA[1.5]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[5.95]]></price_per_piece>
+		<price_per_box><![CDATA[71.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[35.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1142]]></product_number>
+		<barcode_per_piece><![CDATA[5310146004387]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Сладко от диви смоки и орехи Mama's]]></name_bg>
+		<name_en><![CDATA[Wild fig with walnuts delight Mama's]]></name_en>
+		<weight_grams><![CDATA[380]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Сладка]]></category_bg>
+		<category_en><![CDATA[Delights]]></category_en>
+		<description_bg><![CDATA[Домашно сладко по традиционна  македонска рецепта с диви смокини и орехи. 100% натурално, VEGAN, KOSHER, HALAL ]]></description_bg>
+		<description_en><![CDATA[Homemade wild figs delight made from wild figs, sugar and walnuts according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[диви смокини, орехи, захар и много любов]]></ingredients_bg>
+		<ingredients_en><![CDATA[wild figs, walnuts, sugar and lots of love]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа орех]]></allergens_bg>
+		<allergens_en><![CDATA[contains walnut]]></allergens_en>
+		<kcal><![CDATA[321]]></kcal>
+		<fat><![CDATA[0.1]]></fat>
+		<fat_saturated><![CDATA[0.08]]></fat_saturated>
+		<carbohydrates><![CDATA[76]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[6.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.4]]></protein>
+		<salt><![CDATA[0.01]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.55]]></price_per_piece>
+		<price_per_box><![CDATA[114.60 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[57.30 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1141]]></product_number>
+		<barcode_per_piece><![CDATA[5310146001942]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Сладко от бяла диня и сусам Mama's]]></name_bg>
+		<name_en><![CDATA[White watermelon with sesame delight Mama's]]></name_en>
+		<weight_grams><![CDATA[380]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Сладка]]></category_bg>
+		<category_en><![CDATA[Delights]]></category_en>
+		<description_bg><![CDATA[Домашно сладко по традиционна  македонска рецепта с бяла диня и сусам. 100% натурално, VEGAN, KOSHER, HALAL ]]></description_bg>
+		<description_en><![CDATA[Homemade white watermelon delight made from watermelon, sugar and sesame according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[бяла диня, лимон, захар, сусам, ванилия и много любов]]></ingredients_bg>
+		<ingredients_en><![CDATA[watermelon, sugar, lemon,  sesame, vanilla and lots of love]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа сусам]]></allergens_bg>
+		<allergens_en><![CDATA[contains sesame]]></allergens_en>
+		<kcal><![CDATA[327]]></kcal>
+		<fat><![CDATA[0]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[79]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[44]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.1]]></protein>
+		<salt><![CDATA[0.01]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.55]]></price_per_piece>
+		<price_per_box><![CDATA[114.60 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[57.30 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1143]]></product_number>
+		<barcode_per_piece><![CDATA[5310146001478]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Сладко от киви и ванилия Mama's]]></name_bg>
+		<name_en><![CDATA[Kiwi with sesame delight Mama's]]></name_en>
+		<weight_grams><![CDATA[450]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6.2/6.2/12]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[22/31/13]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Mama's]]></brand_name_bg>
+		<brand_name_en><![CDATA[Mama's]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Сладка]]></category_bg>
+		<category_en><![CDATA[Delights]]></category_en>
+		<description_bg><![CDATA[Домашно сладко по традиционна  македонска рецепта с киви и ванилия. 100% натурално, VEGAN, KOSHER, HALAL ]]></description_bg>
+		<description_en><![CDATA[Homemade Kiwi delight made from kiwi, sugar and vanilla according to traditional recipe. 100% natural, VEGAN, KASHER, HALAL]]></description_en>
+		<ingredients_bg><![CDATA[киви, лимон, сусам, захар, ванилия и много любов]]></ingredients_bg>
+		<ingredients_en><![CDATA[kiwi, lemon, sesame, sugar, vanilla and lots of love]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа сусам]]></allergens_bg>
+		<allergens_en><![CDATA[contains sesame]]></allergens_en>
+		<kcal><![CDATA[321]]></kcal>
+		<fat><![CDATA[0.1]]></fat>
+		<fat_saturated><![CDATA[0.08]]></fat_saturated>
+		<carbohydrates><![CDATA[76]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[6.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.4]]></protein>
+		<salt><![CDATA[0.01]]></salt>
+		<durability_days><![CDATA[1095]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[]]></name_bg>
+		<name_en><![CDATA[]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[]]></brand_name_bg>
+		<brand_name_en><![CDATA[]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[]]></country_of_origin_en>
+		<category_bg><![CDATA[]]></category_bg>
+		<category_en><![CDATA[]]></category_en>
+		<description_bg><![CDATA[]]></description_bg>
+		<description_en><![CDATA[]]></description_en>
+		<ingredients_bg><![CDATA[]]></ingredients_bg>
+		<ingredients_en><![CDATA[]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[]]></durability_days>
+		<storage_bg><![CDATA[]]></storage_bg>
+		<storage_en><![CDATA[]]></storage_en>
+		<price_per_piece><![CDATA[]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[402]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207124]]></barcode_per_box>
+		<name_bg><![CDATA[Бабек ДЕЛИКАТЕСЕН, kg]]></name_bg>
+		<name_en><![CDATA[Babek Delicatessen, kg]]></name_en>
+		<weight_grams><![CDATA[~ 600]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[4]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7.5/29/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Пресован и сушен колбас от кълцано и охладено свинско месо от бут. Подправен със сол, червен и черен пипер и кимион, приготвен по традиционна рецепта от Пиринския край. Отличен със Златен медал от Месомания 2014!]]></description_bg>
+		<description_en><![CDATA[Babek Delicatessen is a unique raw-dried delicacy from chopped and cooled pork ham. Seasoned with salt, pepper, paprika and a pinch of forest cumin, made according to a traditional and old recipe from the Pirin area. Honored with a Gold Medal from Meatmania 2014 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен и червен пипер, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, preservative:
+sodium nitrite, spices: cumin, black and red pepper, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[44.92]]></price_per_piece>
+		<price_per_box><![CDATA[179.68 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[89.84 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[без точен грамаж, разлика в цената]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[460]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207254]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207131]]></barcode_per_box>
+		<name_bg><![CDATA[Бански бут ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Banski But Delicatessen]]></name_en>
+		<weight_grams><![CDATA[280]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[15]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[5.5/19/5.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен деликатес, приготвен от чисто месо от свински бут и сол. С характерна форма и визия, покрит с благородна плесен, която по естествен път спомага за съхненето и запазва вкусовите качества за дълъг период. Отличен със Златен медал от Месомания 2014.]]></description_bg>
+		<description_en><![CDATA[Banski But Delicatessen is a one-in-a-kind raw-dried salami, made from clean meat from pork leg and salt. The lack of other ingredients allows for the taste of the meat to shine. Banski But Delicatessen is made according to a unique recipies, designed for connoisseurs and enthusiasts alike. Honored with a Gold Medal from Meatmania 2014 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо от бут, сол, консервант: натриев нитрит, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork, salt, preservative: sodium nitrite, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[10.65]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[405]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207018]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207162]]></barcode_per_box>
+		<name_bg><![CDATA[Бански бут ДЕЛИКАТЕСЕН, кутия]]></name_bg>
+		<name_en><![CDATA[Banski But Delicatessen, box]]></name_en>
+		<weight_grams><![CDATA[280]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[8]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6/24.5/5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[16/16/28]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен деликатес, приготвен от чисто месо от свински бут и сол. С характерна форма и визия, покрит с благородна плесен, която по естествен път спомага за съхненето и запазва вкусовите качества за дълъг период. Отличен със Златен медал от Месомания 2014, опакован в луксозна кутия.]]></description_bg>
+		<description_en><![CDATA[Banski But Delicatessen is a one-in-a-kind raw-dried salami, made from clean meat from pork leg and salt. The lack of other ingredients allows for the taste of the meat to shine. Banski But Delicatessen is made according to a unique recipies, designed for connoisseurs and enthusiasts alike. Honored with a Gold Medal from Meatmania 2014 exhibition! Packed in luxury box.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо от бут, сол, консервант: натриев нитрит, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork, salt, preservative: sodium nitrite, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[12.25]]></price_per_piece>
+		<price_per_box><![CDATA[98.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[49.00 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[412]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207148]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207032]]></barcode_per_box>
+		<name_bg><![CDATA[Бански старец ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Banski Starec]]></name_en>
+		<weight_grams><![CDATA[300]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7.5/17/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен и пресован колбас от свинско месо, сол и кимион, приготвен по традиционна рецепта. Отличен със Златен медал от Месомания 2015.]]></description_bg>
+		<description_en><![CDATA[Banski Starets Delicatessen is the most loved raw-dried and pressed salami from pork, salt, and cumin, made by a traditional recipe. It‘s dried for long so it can acquire its unique taste. Honored with a Gold Medal from Meatmania 2015 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[10.75]]></price_per_piece>
+		<price_per_box><![CDATA[215.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[107.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[414]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207025]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207544]]></barcode_per_box>
+		<name_bg><![CDATA[Бански старец ДЕЛИКАТЕСЕН, кутия]]></name_bg>
+		<name_en><![CDATA[Banski Starec, box]]></name_en>
+		<weight_grams><![CDATA[300]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[10]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8/28/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[16/16/28]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен и пресован колбас от свинско месо, сол и кимион, приготвен по традиционна рецепта. Отличен със Златен медал от Месомания 2015.]]></description_bg>
+		<description_en><![CDATA[Banski Starets Delicatessen is the most loved raw-dried and pressed salami from pork, salt, and cumin, made by a traditional recipe. It‘s dried for long so it can acquire its unique taste. Honored with a Gold Medal from Meatmania 2015 exhibition! Packed in luxury box.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[11.95]]></price_per_piece>
+		<price_per_box><![CDATA[119.50 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[59.75 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[439]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207155]]></barcode_per_box>
+		<name_bg><![CDATA[Сушена кървавица ДЕЛИКАТЕСЕН, Kg]]></name_bg>
+		<name_en><![CDATA[Dry Kurvavitza Delicatessen, kg]]></name_en>
+		<weight_grams><![CDATA[~ 200]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово- сушен деликатес от свинско месо и праз, по автентична рецепта от Пиринския регион. Отличена със Златен медал от Месомания 2018!]]></description_bg>
+		<description_en><![CDATA[Sushena Kurvavitza is one of our most popular sausages. It is made from pork and leek, according to an authentic recipe from the Pirin region. Dried and ready for consumption. It can be gently baked on a grill or oven, openening its great and tempting aroma. Ideal for the preparation of kapama or traditional Bulgarian sour cabbage. Honored with a Gold Medal from Meatmania 2018 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, праз лук, консервант: натриев нитрит, подправки: кимион, черен пипер, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, leek, preservative: sodium nitrite, spices: cumin, black pepper, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[266.2]]></kcal>
+		<fat><![CDATA[21.92]]></fat>
+		<fat_saturated><![CDATA[7.89]]></fat_saturated>
+		<carbohydrates><![CDATA[1.83]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[15.39]]></protein>
+		<salt><![CDATA[1.22]]></salt>
+		<durability_days><![CDATA[90]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[36.75]]></price_per_piece>
+		<price_per_box><![CDATA[147.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[73.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[без точен грамаж, разлика в цената]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[421]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207247]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207049]]></barcode_per_box>
+		<name_bg><![CDATA[Медитеранео ДЕЛИКАТЕСЕН , pcs]]></name_bg>
+		<name_en><![CDATA[Mediteraneo Delicatessen]]></name_en>
+		<weight_grams><![CDATA[150]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[3.5/22/3.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Български сурово-сушен колбас по средиземноморска рецепта, приготвен от ситно накълцано свинско месо и подправки. ]]></description_bg>
+		<description_en><![CDATA[Mediterranean dry salami of finely chopped pork and red pepper. For the preparation of Mediteraneo Delicatessen, we strictly follow the authentic recipe, but use Bulgarian ingredients of very high quality - fresh pork and red pepper.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, антиоксидант: натриев аскорбат, микс от подправки с променливо съотношение, червен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, salt, preservative: sodium nitrite, antioxidant: sodium ascorbate, a mixture of spices with a variable ratio, red pepper, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.35]]></price_per_piece>
+		<price_per_box><![CDATA[87.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[43.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[462]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207223]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207438]]></barcode_per_box>
+		<name_bg><![CDATA[Луканка Резерва ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Lukanka Premium Delicatessen]]></name_en>
+		<weight_grams><![CDATA[230]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[18]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[5.5/24/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен колбас от ситни късчета свинско и телешко месо и автентични подправки, използвани в Пиринския край. Деликатес с типичната за луканките форма и неповторим и уникален вкус. ]]></description_bg>
+		<description_en><![CDATA[Lukanka Premium Delicatessen is a raw-dried salami from finely grinded pork and beef in a balanced ratio, seasoned with a traditional and very aromatic spice.]]></description_en>
+		<ingredients_bg><![CDATA[60% свинско месо, 40% телешко месо, сол, консервант: натриев нитрит, подправки: черен пипер и кимион, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+60% pork meat, 40% beef meat, salt, preservative: sodium nitrite, spices: black pepper and cumin, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[324.2]]></kcal>
+		<fat><![CDATA[42.32]]></fat>
+		<fat_saturated><![CDATA[10.782]]></fat_saturated>
+		<carbohydrates><![CDATA[2.04]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.48]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.55]]></protein>
+		<salt><![CDATA[3.29]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[8.25]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[426]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207056]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207551]]></barcode_per_box>
+		<name_bg><![CDATA[Луканка Резерва ДЕЛИКАТЕСЕН, box]]></name_bg>
+		<name_en><![CDATA[Lukanka Premium Delicatessen, box]]></name_en>
+		<weight_grams><![CDATA[230]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[10]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8/28/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[16/16/28]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сушен колбас от ситни късчета свинско и телешко месо и автентични подправки, използвани в Пиринския край. Деликатес с типичната за луканките форма и неповторим и уникален вкус. ]]></description_bg>
+		<description_en><![CDATA[Lukanka Premium Delicatessen is a raw-dried salami from finely grinded pork and beef in a balanced ratio, seasoned with a traditional and very aromatic spice.]]></description_en>
+		<ingredients_bg><![CDATA[60% свинско месо, 40% телешко месо, сол, консервант: натриев нитрит, подправки: черен пипер и кимион, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+60% pork meat, 40% beef meat, salt, preservative: sodium nitrite, spices: black pepper and cumin, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[324.2]]></kcal>
+		<fat><![CDATA[42.32]]></fat>
+		<fat_saturated><![CDATA[10.782]]></fat_saturated>
+		<carbohydrates><![CDATA[2.04]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.48]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.55]]></protein>
+		<salt><![CDATA[3.29]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[8.95]]></price_per_piece>
+		<price_per_box><![CDATA[89.50 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[44.75 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[466]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207230]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207445]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Неврокопски суджук ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Homemade Sudjuk Delicatessen]]></name_en>
+		<weight_grams><![CDATA[300]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[15]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[6/20/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен, непресован деликатес от свинско месо и подправки, типични за района на гр. Гоце Делчев.]]></description_bg>
+		<description_en><![CDATA[The homemade Sudjuk Delicatessen is a typical for the Gotze Delchev area raw-dried salami from finely sliced pork. It is salted and seasoned with the most recognizable herbs and spices from the region. It is dried but not pressed so that its core remains moist. Honored with a Gold Medal from Meatmania 2016 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[100% свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[100% pork meat, salt, preservative: sodium nitrite, spices: cumin, black pepper, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[328.7]]></kcal>
+		<fat><![CDATA[23.93]]></fat>
+		<fat_saturated><![CDATA[9.16]]></fat_saturated>
+		<carbohydrates><![CDATA[0.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[-0.59]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[24.32]]></protein>
+		<salt><![CDATA[2.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[8.55]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[429]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207087]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207568]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Неврокопски суджук ДЕЛИКАТЕСЕН, box]]></name_bg>
+		<name_en><![CDATA[Homemade Sudjuk Delicatessen, box]]></name_en>
+		<weight_grams><![CDATA[300]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[10]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8/28/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[16/16/28]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен, непресован деликатес от свинско месо и подправки, типични за района на гр. Гоце Делчев.]]></description_bg>
+		<description_en><![CDATA[The homemade Sudjuk Delicatessen is a typical for the Gotze Delchev area raw-dried salami from finely sliced pork. It is salted and seasoned with the most recognizable herbs and spices from the region. It is dried but not pressed so that its core remains moist. Honored with a Gold Medal from Meatmania 2016 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[100% свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[100% pork meat, salt, preservative: sodium nitrite, spices: cumin, black pepper, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[9.75]]></price_per_piece>
+		<price_per_box><![CDATA[97.50 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[48.75 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[465]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207414]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207469]]></barcode_per_box>
+		<name_bg><![CDATA[Пресован Неврокопски суджук ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[ Pork Sudjuk Delicatessen]]></name_en>
+		<weight_grams><![CDATA[150]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[25]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[4/22/2.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен, непресован деликатес от свинско месо и подправки, типични за района на гр. Гоце Делчев.]]></description_bg>
+		<description_en><![CDATA[The homemade Sudjuk Delicatessen is a typical for the Gotze Delchev area raw-dried salami from finely sliced pork. It is salted and seasoned with the most recognizable herbs and spices from the region. It is dried but not pressed so that its core remains moist. Honored with a Gold Medal from Meatmania 2016 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[100% свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[100% pork meat, salt, preservative: sodium nitrite, spices: cumin, black pepper, edible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[330.7]]></kcal>
+		<fat><![CDATA[25.93]]></fat>
+		<fat_saturated><![CDATA[11.16]]></fat_saturated>
+		<carbohydrates><![CDATA[2.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[26.32]]></protein>
+		<salt><![CDATA[4.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.45]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[435]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207209]]></barcode_per_box>
+		<name_bg><![CDATA[Осолен Бекон Деликатесен, kg]]></name_bg>
+		<name_en><![CDATA[Salted Bacon Delicatessen, kg]]></name_en>
+		<weight_grams><![CDATA[~ 300]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[15]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Осолената флейка е деликатес от сочен свински бекон с подправки. Опакован във вакуум.]]></description_bg>
+		<description_en><![CDATA[The Salted Fleika is a satiating and delicious delicacy made out of shredded pork with spices.]]></description_en>
+		<ingredients_bg><![CDATA[100% свинско месо, сол, подправки]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+100% pork, salt, spices]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[324.2]]></kcal>
+		<fat><![CDATA[42.32]]></fat>
+		<fat_saturated><![CDATA[18.78]]></fat_saturated>
+		<carbohydrates><![CDATA[2.04]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.48]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.55]]></protein>
+		<salt><![CDATA[3.29]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[15.17]]></price_per_piece>
+		<price_per_box><![CDATA[60.68 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[30.34 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[без точен грамаж, разлика в цената]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[463]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207315]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207476]]></barcode_per_box>
+		<name_bg><![CDATA[Телешка луканка ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Beef Lukanka Delicatessen]]></name_en>
+		<weight_grams><![CDATA[210]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[5.5/23/2.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен колбас от 100% телешко месо и подправки. Отличен със Златен медал от Месомания 2015.]]></description_bg>
+		<description_en><![CDATA[Beef Lukanka Delicatessen is a salami from finely grounded beef meat, that just like Pork Lukanka and Lukanka Special Selection is seasoned with traditional herbs and spices. It‘s a favorite for beef lovers. Honored with a Gold Medal from Meatmania 2015 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[100% телешко месо, сол, консервант: натриев нитрит, подправки: черен пипер и кимион, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[beef meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, edible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[8.55]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[446]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207063]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207575]]></barcode_per_box>
+		<name_bg><![CDATA[Телешка луканка ДЕЛИКАТЕСЕН, box]]></name_bg>
+		<name_en><![CDATA[Beef Lukanka Delicatessen, box]]></name_en>
+		<weight_grams><![CDATA[210]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[10]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8/28/3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[16/16/28]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен колбас от 100% телешко месо и подправки. Отличен със Златен медал от Месомания 2015.]]></description_bg>
+		<description_en><![CDATA[Beef Lukanka Delicatessen is a salami from finely grounded beef meat, that just like Pork Lukanka and Lukanka Special Selection is seasoned with traditional herbs and spices. It‘s a favorite for beef lovers. Honored with a Gold Medal from Meatmania 2015 exhibition! Packed in luxury box.]]></description_en>
+		<ingredients_bg><![CDATA[100% телешко месо, сол, консервант: натриев нитрит, подправки: черен пипер и кимион, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[beef meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, edible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[9.45]]></price_per_piece>
+		<price_per_box><![CDATA[94.50 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[47.25 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[464]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207407]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207452]]></barcode_per_box>
+		<name_bg><![CDATA[Телешки суджук ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Beef Sudjuk Delicatessen]]></name_en>
+		<weight_grams><![CDATA[150]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[25]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/16/2.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Сурово-сушен колбас от 100% телешко месо и подправки.]]></description_bg>
+		<description_en><![CDATA[Beef Sudjuk is prepared with much love from 100% beef by an old recipe. The combinations between precisely defined proportions of quality and clean meat and the selected spices can be felt with the first bite. The salami is dried and aged for a long time, guaranteeing an unforgettable and harmonious flavor.]]></description_en>
+		<ingredients_bg><![CDATA[100% телешко месо, сол, консервант: натриев нитрит, подправки: черен пипер и кимион, ядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[beef meat, salt, preservative: sodium nitrite, spices: cumin, black pepper, edible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[5.95]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[461]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207308]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207483]]></barcode_per_box>
+		<name_bg><![CDATA[Топузка ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Topuzka Delicatessen]]></name_en>
+		<weight_grams><![CDATA[600]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[7]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/15/6.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Пресован и сушен деликатес от подправено свинско месо от бут, кълцано и напълнено в свински мехур. Произведен по семейна рецепта на повече от 70 години с автентична форма, едра структура на сърцевината и невероятен вкус. Отличен със Златен медал от Месомания 2019!]]></description_bg>
+		<description_en><![CDATA[Topuzka Delicatessen is a raw-dried delicacy with authentic form, coarse structure, and amazing taste. It is made by a 70 year old family recipe. The product is from pork leg, sliced and filled in a bladder. It is pressed and dried for more than two months. The secret to it‘s beautiful taste is hidden in the pure meat and the mountains spices. Honored with a Gold Medal from Meatmania 2019 exhibition!]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[26.95]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[455]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207292]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207582]]></barcode_per_box>
+		<name_bg><![CDATA[Топузка ДЕЛИКАТЕСЕН, кутия]]></name_bg>
+		<name_en><![CDATA[Topuzka Delicatessen, box]]></name_en>
+		<weight_grams><![CDATA[600]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[9]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Пресован и сушен деликатес от подправено свинско месо от бут, кълцано и напълнено в свински мехур. Произведен по семейна рецепта на повече от 70 години с автентична форма, едра структура на сърцевината и невероятен вкус. Отличен със Златен медал от Месомания 2019, опакован в луксозна кутия.]]></description_bg>
+		<description_en><![CDATA[Topuzka Delicatessen is a raw-dried delicacy with authentic form, coarse structure, and amazing taste. It is made by a 70 year old family recipe. The product is from pork leg, sliced and filled in a bladder. It is pressed and dried for more than two months. The secret to it‘s beautiful taste is hidden in the pure meat and the mountains spices. Honored with a Gold Medal from Meatmania 2019 exhibition! Packed in luxury box.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, подправки: кимион, черен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[pork meat, salt, preservative:
+sodium nitrite, spices: cumin, black pepper, inedible wrap ]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[28.65]]></price_per_piece>
+		<price_per_box><![CDATA[257.85 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[459]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207216]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207490]]></barcode_per_box>
+		<name_bg><![CDATA[Чоризо ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Chorizo Delicatessen]]></name_en>
+		<weight_grams><![CDATA[150]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[3.5/22/3.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Raw-dried salami]]></category_en>
+		<description_bg><![CDATA[Пикантен сушен колбас от свинско месо и много червен пипер, популярен в средиземноморската и латиноамериканската кухня.  ]]></description_bg>
+		<description_en><![CDATA[Chorizo, popular in Mediterranean and Latin American cuisine, consists of spicy dry pork sausage and a lot of red pepper. Chorizo Delicatessen is produced by the authentic Spanish recipe but with Bulgarian spicy pepper. It has the typical flavor and recognizable reddish color.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, сол, консервант: натриев нитрит, антиоксидант: натриев аскорбат, микс от подправки с променливо съотношение, пикантен червен пипер, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, salt, preservative: sodium nitrite, antioxidant: sodium ascorbate, a mixture of spices with a variable ratio, spicy red pepper, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[329.7]]></kcal>
+		<fat><![CDATA[24.93]]></fat>
+		<fat_saturated><![CDATA[10.16]]></fat_saturated>
+		<carbohydrates><![CDATA[1.01]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.41]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25.32]]></protein>
+		<salt><![CDATA[3.79]]></salt>
+		<durability_days><![CDATA[120]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.35]]></price_per_piece>
+		<price_per_box><![CDATA[87.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[43.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[551]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207070]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207506]]></barcode_per_box>
+		<name_bg><![CDATA[Шпек Деликатесен ДЕЛИКАТЕСЕН , pcs]]></name_bg>
+		<name_en><![CDATA[Dry Spek Delicatessen]]></name_en>
+		<weight_grams><![CDATA[250]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/29/4]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Salami]]></category_en>
+		<description_bg><![CDATA[Траен варено-пушен луканков колбас, приготвен от свинско месо и цели зрънца черен пипер, бахар и чеснов лук. ]]></description_bg>
+		<description_en><![CDATA[Spek Burgas, Servilat, Pirin and Delicatessen are durable boiled-smoked sausages prepared from pork meat and special spices, the combination of which makes the taste and aroma of each of the four sausages unique and memorable. The mild and tempting aroma of spices such as garlic, coriander and nutmeg in Bourgas, Servilat and Pirin and whole grains of pepper in Delicatessen return memories of childhood with the first bite.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, свински и растителен протеин (до2%), сол, консервант: натриев нитрит, антиоксидант: Е316, емулгатор: Е450, микс от подправки с променливо съотношение, неядлива опаковка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, pork and vegetable protein (up to 2%), salt, preservative: sodium nitrite, antioxidant: E316, emulsifier: E450, mixed spice mix with variable ratio, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа соя]]></allergens_bg>
+		<allergens_en><![CDATA[contains soy]]></allergens_en>
+		<kcal><![CDATA[173.2]]></kcal>
+		<fat><![CDATA[6.07]]></fat>
+		<fat_saturated><![CDATA[2.32]]></fat_saturated>
+		<carbohydrates><![CDATA[1.27]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.63]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[28.38]]></protein>
+		<salt><![CDATA[3.98]]></salt>
+		<durability_days><![CDATA[90]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[5.65]]></price_per_piece>
+		<price_per_box><![CDATA[113.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[56.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[554]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207339]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207513]]></barcode_per_box>
+		<name_bg><![CDATA[Шпек Бургас ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Spek Burgas Delicatessen]]></name_en>
+		<weight_grams><![CDATA[190]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Salami]]></category_en>
+		<description_bg><![CDATA[Траен варено-пушен колбас, приготвен от свинско месо, чесън и други ароматни подправки. ]]></description_bg>
+		<description_en><![CDATA[Spek Burgas, Servilat, Pirin and Delicatessen are durable boiled-smoked sausages prepared from pork meat and special spices, the combination of which makes the taste and aroma of each of the four sausages unique and memorable. The mild and tempting aroma of spices such as garlic, coriander and nutmeg in Bourgas, Servilat and Pirin and whole grains of pepper in Delicatessen return memories of childhood with the first bite.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, свински и растителен протеин (до2%), сол, консервант: натриев нитрит, антиоксидант: Е316, емулгатор: Е450, микс от подправки с променливо съотношение, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, pork and vegetable protein (up to 2%), salt, preservative: sodium nitrite, antioxidant: E316, emulsifier: E450, mixed spice mix with variable ratio, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа соя]]></allergens_bg>
+		<allergens_en><![CDATA[contains soy]]></allergens_en>
+		<kcal><![CDATA[285]]></kcal>
+		<fat><![CDATA[22.83]]></fat>
+		<fat_saturated><![CDATA[9.43]]></fat_saturated>
+		<carbohydrates><![CDATA[1.58]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.49]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[18.31]]></protein>
+		<salt><![CDATA[3.22]]></salt>
+		<durability_days><![CDATA[90]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.15]]></price_per_piece>
+		<price_per_box><![CDATA[83.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[562]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207346]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207537]]></barcode_per_box>
+		<name_bg><![CDATA[Шпек Пирин ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Spek Pirin Delicatessen]]></name_en>
+		<weight_grams><![CDATA[190]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Salami]]></category_en>
+		<description_bg><![CDATA[Траен варено-пушен колбас, приготвен от свинско месо, кориандър и други ароматни подправки.]]></description_bg>
+		<description_en><![CDATA[Spek Burgas, Servilat, Pirin and Delicatessen are durable boiled-smoked sausages prepared from pork meat and special spices, the combination of which makes the taste and aroma of each of the four sausages unique and memorable. The mild and tempting aroma of spices such as garlic, coriander and nutmeg in Bourgas, Servilat and Pirin and whole grains of pepper in Delicatessen return memories of childhood with the first bite.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, свински и растителен протеин (до2%), сол, консервант: натриев нитрит, антиоксидант: Е316, емулгатор: Е450, микс от подправки с променливо съотношение, неядлива обвивка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, pork and vegetable protein (up to 2%), salt, preservative: sodium nitrite, antioxidant: E316, emulsifier: E450, mixed spice mix with variable ratio, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа соя]]></allergens_bg>
+		<allergens_en><![CDATA[contains soy]]></allergens_en>
+		<kcal><![CDATA[285]]></kcal>
+		<fat><![CDATA[22.83]]></fat>
+		<fat_saturated><![CDATA[9.43]]></fat_saturated>
+		<carbohydrates><![CDATA[1.58]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.49]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[18.31]]></protein>
+		<salt><![CDATA[3.22]]></salt>
+		<durability_days><![CDATA[90]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.15]]></price_per_piece>
+		<price_per_box><![CDATA[83.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[557]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207353]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207520]]></barcode_per_box>
+		<name_bg><![CDATA[Шпек Сервилат ДЕЛИКАТЕСЕН, pcs]]></name_bg>
+		<name_en><![CDATA[Spek Servilat Delicatessen]]></name_en>
+		<weight_grams><![CDATA[190]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[20]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[26/31.5/16]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Колбаси]]></category_bg>
+		<category_en><![CDATA[Salami]]></category_en>
+		<description_bg><![CDATA[Траен варено-пушен колбас, приготвен от свинско месо, индийско орехче и други ароматни подправки.]]></description_bg>
+		<description_en><![CDATA[Spek Burgas, Servilat, Pirin and Delicatessen are durable boiled-smoked sausages prepared from pork meat and special spices, the combination of which makes the taste and aroma of each of the four sausages unique and memorable. The mild and tempting aroma of spices such as garlic, coriander and nutmeg in Bourgas, Servilat and Pirin and whole grains of pepper in Delicatessen return memories of childhood with the first bite.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо, свински и растителен протеин (до2%), сол, консервант: натриев нитрит, антиоксидант: Е316, емулгатор: Е450, микс от подправки с променливо съотношение, неядлива опаковка]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+pork meat, pork and vegetable protein (up to 2%), salt, preservative: sodium nitrite, antioxidant: E316, emulsifier: E450, mixed spice mix with variable ratio, inedible wrap]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа соя]]></allergens_bg>
+		<allergens_en><![CDATA[contains soy]]></allergens_en>
+		<kcal><![CDATA[285]]></kcal>
+		<fat><![CDATA[22.83]]></fat>
+		<fat_saturated><![CDATA[9.43]]></fat_saturated>
+		<carbohydrates><![CDATA[1.58]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.49]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[18.31]]></protein>
+		<salt><![CDATA[3.22]]></salt>
+		<durability_days><![CDATA[90]]></durability_days>
+		<storage_bg><![CDATA[при t от 0° до +4°C]]></storage_bg>
+		<storage_en><![CDATA[at t from 0°C to +4°C]]></storage_en>
+		<price_per_piece><![CDATA[4.15]]></price_per_piece>
+		<price_per_box><![CDATA[83.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[]]></name_bg>
+		<name_en><![CDATA[]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[]]></brand_name_bg>
+		<brand_name_en><![CDATA[]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[]]></country_of_origin_en>
+		<category_bg><![CDATA[]]></category_bg>
+		<category_en><![CDATA[]]></category_en>
+		<description_bg><![CDATA[]]></description_bg>
+		<description_en><![CDATA[]]></description_en>
+		<ingredients_bg><![CDATA[]]></ingredients_bg>
+		<ingredients_en><![CDATA[]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[]]></durability_days>
+		<storage_bg><![CDATA[]]></storage_bg>
+		<storage_en><![CDATA[]]></storage_en>
+		<price_per_piece><![CDATA[]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1062]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207988]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207650]]></barcode_per_box>
+		<name_bg><![CDATA[Свинско месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Pork Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/13]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/13.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Свинско месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved pork meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо 100% (50% бут, 30% плешка, 20% джолан), сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[100% pork meat (50% ham, 30% shoulder, 20% knuckle), salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[158.2]]></kcal>
+		<fat><![CDATA[10]]></fat>
+		<fat_saturated><![CDATA[4.82]]></fat_saturated>
+		<carbohydrates><![CDATA[0.5]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[17.05]]></protein>
+		<salt><![CDATA[2.16]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[13.95]]></price_per_piece>
+		<price_per_box><![CDATA[83.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1069]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207872]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207285]]></barcode_per_box>
+		<name_bg><![CDATA[Свинско месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Pork Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[330]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/7.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/8]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Свинско месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved pork meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[свинско месо 100% (50% бут, 30% плешка, 20% джолан), сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[100% pork meat (50% ham, 30% shoulder, 20% knuckle), salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[158.2]]></kcal>
+		<fat><![CDATA[10]]></fat>
+		<fat_saturated><![CDATA[4.82]]></fat_saturated>
+		<carbohydrates><![CDATA[0.5]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[17.05]]></protein>
+		<salt><![CDATA[2.16]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.95]]></price_per_piece>
+		<price_per_box><![CDATA[53.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[26.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1077]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207919]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207643]]></barcode_per_box>
+		<name_bg><![CDATA[Свински джолан в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Pork knuckle with spices in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/13]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/13.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Свински джолан с подправки в буркан, варен и стерилизиран по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved meat from pork knuckle with pinch of salt, spices and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[месо от свински джолан, сол, черен пипер, дафинов лист]]></ingredients_bg>
+		<ingredients_en><![CDATA[meat from pork knuckle, salt, pepper and bay leaf]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[72.17]]></kcal>
+		<fat><![CDATA[5.16]]></fat>
+		<fat_saturated><![CDATA[1.92]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[24.73]]></protein>
+		<salt><![CDATA[1.66]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[13.95]]></price_per_piece>
+		<price_per_box><![CDATA[83.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1070]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207858]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207636]]></barcode_per_box>
+		<name_bg><![CDATA[Свински джолан в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Pork knuckle with spices in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[330]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/7.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/8]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Свински джолан с подправки в буркан, варен и стерилизиран по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved meat from pork knuckle with pinch of salt, spices and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[месо от свински джолан, сол, черен пипер, дафинов лист]]></ingredients_bg>
+		<ingredients_en><![CDATA[meat from pork knuckle, salt, pepper and bay leaf]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[72.17]]></kcal>
+		<fat><![CDATA[5.16]]></fat>
+		<fat_saturated><![CDATA[1.92]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[24.73]]></protein>
+		<salt><![CDATA[1.66]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.95]]></price_per_piece>
+		<price_per_box><![CDATA[53.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[26.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1065]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207995]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207667]]></barcode_per_box>
+		<name_bg><![CDATA[Телешко месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Veal Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/13]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/13.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Телешко месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved veal meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[говеждо месо 100% ( 70% плешка, 30%джолан), сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[veal 100% (70% shoulder blade, 30% knuckle), salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[164.1]]></kcal>
+		<fat><![CDATA[7.12]]></fat>
+		<fat_saturated><![CDATA[3.4]]></fat_saturated>
+		<carbohydrates><![CDATA[0.5]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25]]></protein>
+		<salt><![CDATA[1.86]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[16.95]]></price_per_piece>
+		<price_per_box><![CDATA[101.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[50.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1068]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207865]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207193]]></barcode_per_box>
+		<name_bg><![CDATA[Телешко месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Veal Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[330]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/7.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/8]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Телешко месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved veal meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[говеждо месо 100% ( 70% плешка, 30%джолан), сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[veal 100% (70% shoulder blade, 30% knuckle), salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[164.1]]></kcal>
+		<fat><![CDATA[7.12]]></fat>
+		<fat_saturated><![CDATA[3.4]]></fat_saturated>
+		<carbohydrates><![CDATA[0.5]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[25]]></protein>
+		<salt><![CDATA[1.86]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[11.95]]></price_per_piece>
+		<price_per_box><![CDATA[71.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[35.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1076]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207902]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207629]]></barcode_per_box>
+		<name_bg><![CDATA[Пилешко месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Chicken Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/13]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/13.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Пилешко месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved chicken meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[пилешко месо от бут; сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[chicken thighs, salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[72.14]]></kcal>
+		<fat><![CDATA[6]]></fat>
+		<fat_saturated><![CDATA[1.87]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[17.14]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[11.95]]></price_per_piece>
+		<price_per_box><![CDATA[71.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[35.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1067]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207841]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207612]]></barcode_per_box>
+		<name_bg><![CDATA[Пилешко месо в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Chicken Meat in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[330]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/7.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/8]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Пилешко месо в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved chicken meat with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[пилешко месо от бут; сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[chicken thighs, salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[72.14]]></kcal>
+		<fat><![CDATA[6]]></fat>
+		<fat_saturated><![CDATA[1.87]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[17.14]]></protein>
+		<salt><![CDATA[1.9]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.35]]></price_per_piece>
+		<price_per_box><![CDATA[50.10 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[25.05 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1075]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207896]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207605]]></barcode_per_box>
+		<name_bg><![CDATA[Говеждо шкембе в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Beef tripe in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/13]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/13.5]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Говеждо шкембе в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved beef tripe with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[говеждо шкембе; сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[beef tripe, salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[85.14]]></kcal>
+		<fat><![CDATA[5.16]]></fat>
+		<fat_saturated><![CDATA[1.92]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[24.73]]></protein>
+		<salt><![CDATA[1.66]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[11.95]]></price_per_piece>
+		<price_per_box><![CDATA[71.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[35.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1072]]></product_number>
+		<barcode_per_piece><![CDATA[3800500207834]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[3800500207599]]></barcode_per_box>
+		<name_bg><![CDATA[Говеждо шкембе в буркан ДЕЛИКАТЕСЕН]]></name_bg>
+		<name_en><![CDATA[Beef tripe in a jar Delicatessen]]></name_en>
+		<weight_grams><![CDATA[330]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8.5/8.5/7.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[18/27/8]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Деликатесен]]></brand_name_bg>
+		<brand_name_en><![CDATA[Delicatessen]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[България]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[Bulgaria]]></country_of_origin_en>
+		<category_bg><![CDATA[Месни консерви]]></category_bg>
+		<category_en><![CDATA[Meat cans]]></category_en>
+		<description_bg><![CDATA[Говеждо шкембе в буркан, варено и стерилизирано по традиционна рецепта само със сол. Съдържа 100% месо! Месото е готово за употреба, но може да се доготви с най-разнообразни продукти в най-разнообразни рецепти.]]></description_bg>
+		<description_en><![CDATA[A jar with pure preserved beef tripe with pinch of salt and love made by an old recipe. Easy to eat, prepare and share. Consume it directly after heating or cook it with a variety of other products in a variety of recipes.]]></description_en>
+		<ingredients_bg><![CDATA[говеждо шкембе; сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[beef tripe, salt]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[85.14]]></kcal>
+		<fat><![CDATA[5.16]]></fat>
+		<fat_saturated><![CDATA[1.92]]></fat_saturated>
+		<carbohydrates><![CDATA[0.8]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[0.4]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[24.73]]></protein>
+		<salt><![CDATA[1.66]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.35]]></price_per_piece>
+		<price_per_box><![CDATA[50.10 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[25.05 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[]]></name_bg>
+		<name_en><![CDATA[]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[]]></brand_name_bg>
+		<brand_name_en><![CDATA[]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[]]></country_of_origin_en>
+		<category_bg><![CDATA[]]></category_bg>
+		<category_en><![CDATA[]]></category_en>
+		<description_bg><![CDATA[]]></description_bg>
+		<description_en><![CDATA[]]></description_en>
+		<ingredients_bg><![CDATA[]]></ingredients_bg>
+		<ingredients_en><![CDATA[]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[]]></durability_days>
+		<storage_bg><![CDATA[]]></storage_bg>
+		<storage_en><![CDATA[]]></storage_en>
+		<price_per_piece><![CDATA[]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1096]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747914]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Белени домати 400g BON VITA]]></name_bg>
+		<name_en><![CDATA[Peeled tomatoes 400g BON VITA]]></name_en>
+		<weight_grams><![CDATA[400]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[11/11/7.3]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Цели белени домати в доматен сок, подходящи за готвене на всякакви ястия и сосове.]]></description_bg>
+		<description_en><![CDATA[Whole peeled tomatoes in tomato juice, suitable for cooking all kinds of dishes and sauces.]]></description_en>
+		<ingredients_bg><![CDATA[цели белени домати, доматен сок, лимонена киселина-регулатор на киселинността]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+whole peeled tomatoes, tomato juice, citric acid-acidity regulator]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[29]]></kcal>
+		<fat><![CDATA[0.3]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[3.2]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.2]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.2]]></protein>
+		<salt><![CDATA[0.1]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[1.75]]></price_per_piece>
+		<price_per_box><![CDATA[21.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[10.50 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1097]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747419]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Белени домати 800g BON VITA]]></name_bg>
+		<name_en><![CDATA[Peeled tomatoes 800g BON VITA]]></name_en>
+		<weight_grams><![CDATA[800]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[11.8/11.8/9]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Цели белени домати в доматен сок, подходящи за готвене на всякакви ястия и сосове.]]></description_bg>
+		<description_en><![CDATA[Whole peeled tomatoes in tomato juice, suitable for cooking all kinds of dishes and sauces.]]></description_en>
+		<ingredients_bg><![CDATA[цели белени домати, доматен сок, лимонена киселина-регулатор на киселинността]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+whole peeled tomatoes, tomato juice, citric acid-acidity regulator]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[29]]></kcal>
+		<fat><![CDATA[0.3]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[3.2]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3.2]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.2]]></protein>
+		<salt><![CDATA[1]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[2.95]]></price_per_piece>
+		<price_per_box><![CDATA[17.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[17.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1098]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747754]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар BON VITA]]></name_bg>
+		<name_en><![CDATA[Homestyle Ajvar BON VITA]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[13/13/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Разядка от печени чушк.и и патладжани по традиционна македонска рецепта]]></description_bg>
+		<description_en><![CDATA[A relish of roasted peppers and eggplants, made according to a traditional Macedonian recipe.]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, патладжан, слънчогледово масло, сол, оцет, захар]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+roasted red pepper, eggplant, sunflower oil, salt, vinegar, sugar]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[184]]></kcal>
+		<fat><![CDATA[11.24]]></fat>
+		<fat_saturated><![CDATA[1.02]]></fat_saturated>
+		<carbohydrates><![CDATA[17.23]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[9.79]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.34]]></protein>
+		<salt><![CDATA[0.216]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.50]]></price_per_piece>
+		<price_per_box><![CDATA[102.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[51.00 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1099]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747747]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Домашен Айвар Лют BON VITA]]></name_bg>
+		<name_en><![CDATA[Homestyle Hot Ajvar BON VITA]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[13/13/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Айвари]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Пикантна разядка от печени чушки и патладжани по традиционна македонска рецепта.]]></description_bg>
+		<description_en><![CDATA[A hot relish of roasted peppers and eggplants, made according to a traditional Macedonian recipe.]]></description_en>
+		<ingredients_bg><![CDATA[печена червена чушка, патладжан, люти феферони, слънчогледово масло, сол, оцет, захар]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+roasted red pepper, eggplant, hot peppers, sunflower oil, salt, vinegar, sugar]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[184]]></kcal>
+		<fat><![CDATA[11.24]]></fat>
+		<fat_saturated><![CDATA[1.02]]></fat_saturated>
+		<carbohydrates><![CDATA[17.23]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[9.79]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.34]]></protein>
+		<salt><![CDATA[0.216]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[8.50]]></price_per_piece>
+		<price_per_box><![CDATA[102.00 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[51.00 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1102]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747648]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Лютеница BON VITA]]></name_bg>
+		<name_en><![CDATA[Home Style Lutenica BON VITA]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[13/13/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Лютеници]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Вкусна лютеница по оригинална македонска рецепта.]]></description_bg>
+		<description_en><![CDATA[Delicious lutenitsa made according to an original Macedonian recipe.]]></description_en>
+		<ingredients_bg><![CDATA[чушки, доматено пюре, моркови, слънчогледово масло, сол, оцет, захар, чесън, подправки]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+peppers, tomato paste, carrots, sunflower oil, salt, vinegar, sugar, garlic, spices]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[117]]></kcal>
+		<fat><![CDATA[7]]></fat>
+		<fat_saturated><![CDATA[1]]></fat_saturated>
+		<carbohydrates><![CDATA[9]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2]]></protein>
+		<salt><![CDATA[1]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[6.95]]></price_per_piece>
+		<price_per_box><![CDATA[83.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1103]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747686]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Лютеница Люта BON VITA]]></name_bg>
+		<name_en><![CDATA[Home Style Hot Lutenica BON VITA]]></name_en>
+		<weight_grams><![CDATA[540]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Лютеници]]></category_bg>
+		<category_en><![CDATA[Roasted Pepper Relishes]]></category_en>
+		<description_bg><![CDATA[Вкусна лютеница по оригинална македонска рецепта.]]></description_bg>
+		<description_en><![CDATA[Delicious hot lutenitsa made according to an original Macedonian recipe.]]></description_en>
+		<ingredients_bg><![CDATA[чушки, доматено пюре, моркови, люти феферони, слънчогледово масло, сол, оцет, захар, чесън, подправки]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+
+peppers, tomato paste, carrots, hot peppers, sunflower oil, salt, vinegar, sugar, garlic, spices]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[117]]></kcal>
+		<fat><![CDATA[7]]></fat>
+		<fat_saturated><![CDATA[1]]></fat_saturated>
+		<carbohydrates><![CDATA[9]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[3]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2]]></protein>
+		<salt><![CDATA[1]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[6.95]]></price_per_piece>
+		<price_per_box><![CDATA[41.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1100]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747167]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Кисели Краставички BON VITA]]></name_bg>
+		<name_en><![CDATA[Traditionally prepared pickles BON VITA]]></name_en>
+		<weight_grams><![CDATA[670]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[13/13/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Хрупкави кисели краставички по домашна рецепта.]]></description_bg>
+		<description_en><![CDATA[Crispy pickles made according to a homemade recipe.]]></description_en>
+		<ingredients_bg><![CDATA[краставички, вода, сол, оцет, захар, подправки (синап)]]></ingredients_bg>
+		<ingredients_en><![CDATA[cucumbers, water, salt, vinegar, sugar, spices (mustard)]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа синап]]></allergens_bg>
+		<allergens_en><![CDATA[contains mustard seed]]></allergens_en>
+		<kcal><![CDATA[17]]></kcal>
+		<fat><![CDATA[0]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[2.7]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.1]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.3]]></protein>
+		<salt><![CDATA[1.3]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[2.95]]></price_per_piece>
+		<price_per_box><![CDATA[35.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[17.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1105]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747655]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Сладко от Диви Смокини BON VITA]]></name_bg>
+		<name_en><![CDATA[Wild Figs delight BON VITA]]></name_en>
+		<weight_grams><![CDATA[900]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[12]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[14/14/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Сладка]]></category_bg>
+		<category_en><![CDATA[Delights]]></category_en>
+		<description_bg><![CDATA[Сладко от диви смокини по домашна рецепта, подходящо за всякакви десерти.]]></description_bg>
+		<description_en><![CDATA[
+Homemade wild fig jam, suitable for all desserts.]]></description_en>
+		<ingredients_bg><![CDATA[диви смокини, захар, лимонена киселина- регулатор на киселинността]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+wild figs, sugar, citric acid - acidity regulator]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[324.5]]></kcal>
+		<fat><![CDATA[0.1]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[3.68]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.2]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.22]]></protein>
+		<salt><![CDATA[0.93]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[6.95]]></price_per_piece>
+		<price_per_box><![CDATA[83.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1106]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747334]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Люти Чушки Феферони BON VITA]]></name_bg>
+		<name_en><![CDATA[Hot peppers Pepperoni BON VITA]]></name_en>
+		<weight_grams><![CDATA[200]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[24]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[8/8/6.7]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Приятни пикантни мариновани чушки феферони приготвени по традиционна рецепта.]]></description_bg>
+		<description_en><![CDATA[
+Pleasant spicy marinated peppers prepared according to a traditional recipe.]]></description_en>
+		<ingredients_bg><![CDATA[люти феферони, вода, сол, оцет]]></ingredients_bg>
+		<ingredients_en><![CDATA[hot peppers, water, salt, vinegar]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[22]]></kcal>
+		<fat><![CDATA[0]]></fat>
+		<fat_saturated><![CDATA[0]]></fat_saturated>
+		<carbohydrates><![CDATA[4.21]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.08]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[1.28]]></protein>
+		<salt><![CDATA[1.28]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[1.85]]></price_per_piece>
+		<price_per_box><![CDATA[44.40 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[22.20 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1109]]></product_number>
+		<barcode_per_piece><![CDATA[5319990747624]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Чери чушки с хумус BON VITA]]></name_bg>
+		<name_en><![CDATA[
+Cherry peppers with hummus BON VITA]]></name_en>
+		<weight_grams><![CDATA[314]]></weight_grams>
+		<weight_mililiters><![CDATA[314]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[10.5/10.5/8.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Bon Vita]]></brand_name_bg>
+		<brand_name_en><![CDATA[Bon Vita]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Зеленчукови консерви]]></category_bg>
+		<category_en><![CDATA[Pickles and ready to eat classics]]></category_en>
+		<description_bg><![CDATA[Вкусни антипасти от чери чушки пълнени с хумус.]]></description_bg>
+		<description_en><![CDATA[
+Delicious antipasti of cherry peppers stuffed with hummus.]]></description_en>
+		<ingredients_bg><![CDATA[чери чушки, слънчогледово олио, хумус (нахут, сусам, чесън), оцет, сол]]></ingredients_bg>
+		<ingredients_en><![CDATA[
+cherry peppers, sunflower oil, hummus (chickpeas, sesame, garlic), vinegar, salt]]></ingredients_en>
+		<allergens_bg><![CDATA[съдържа сусам]]></allergens_bg>
+		<allergens_en><![CDATA[contains sesame]]></allergens_en>
+		<kcal><![CDATA[161]]></kcal>
+		<fat><![CDATA[14.25]]></fat>
+		<fat_saturated><![CDATA[2.18]]></fat_saturated>
+		<carbohydrates><![CDATA[4.84]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[1.37]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[2.18]]></protein>
+		<salt><![CDATA[2.2]]></salt>
+		<durability_days><![CDATA[730]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[6.95]]></price_per_piece>
+		<price_per_box><![CDATA[41.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[41.70 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[]]></product_number>
+		<barcode_per_piece><![CDATA[]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[]]></name_bg>
+		<name_en><![CDATA[]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[]]></brand_name_bg>
+		<brand_name_en><![CDATA[]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[]]></country_of_origin_en>
+		<category_bg><![CDATA[]]></category_bg>
+		<category_en><![CDATA[]]></category_en>
+		<description_bg><![CDATA[]]></description_bg>
+		<description_en><![CDATA[]]></description_en>
+		<ingredients_bg><![CDATA[]]></ingredients_bg>
+		<ingredients_en><![CDATA[]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[]]></durability_days>
+		<storage_bg><![CDATA[]]></storage_bg>
+		<storage_en><![CDATA[]]></storage_en>
+		<price_per_piece><![CDATA[]]></price_per_piece>
+		<price_per_box><![CDATA[]]></price_per_box>
+		<price_per_12box><![CDATA[]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1165]]></product_number>
+		<barcode_per_piece><![CDATA[5319990611611]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Афродизиак Pivka]]></name_bg>
+		<name_en><![CDATA[
+Aphrodisiac cuvee Pivka]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[750]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/7/33.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[17/24/35]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Пивка]]></brand_name_bg>
+		<brand_name_en><![CDATA[Pivka]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Вино]]></category_bg>
+		<category_en><![CDATA[Wine]]></category_en>
+		<description_bg><![CDATA[Афродизиак кюве- сухо червено вино от Каберне Совиньон (40%), Мерло (30%) и Вранец (30%) с контролиран произход. С наситен рубенено-червен цвят и приятен блясък. В ароматът и вкусът му се откриват сладки нюанси на череши и боровинки. С добре изразени танини и дълъг и запомнящ се финал. Виното има потенциал за отлежаване.]]></description_bg>
+		<description_en><![CDATA[
+Aphrodisiac cuvee - dry red wine from Cabernet Sauvignon (40%), Merlot (30%) and Vranets (30%) of controlled origin. With a rich ruby-red color and a pleasant shine. Sweet nuances of cherries and blueberries are found in its aroma and taste. With well-defined tannins and a long and memorable finale. The wine has the potential to mature.]]></description_en>
+		<ingredients_bg><![CDATA[Каберне Совиньон (40%), Мерло (30%) и Вранец (30%) с контролиран произход]]></ingredients_bg>
+		<ingredients_en><![CDATA[Cabernet Sauvignon (40%), Merlot (30%) and Vranets (30%) of controlled origin]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[-]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[59.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[29.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1166]]></product_number>
+		<barcode_per_piece><![CDATA[5319990611208]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Вранец Барик Pivka]]></name_bg>
+		<name_en><![CDATA[Vranets Pivka]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[750]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/7/33.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[17/24/35]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Пивка]]></brand_name_bg>
+		<brand_name_en><![CDATA[Pivka]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Вино]]></category_bg>
+		<category_en><![CDATA[Wine]]></category_en>
+		<description_bg><![CDATA[Виното е изработено по технологията барик- отлежало в дъбови бъчви. Отличава се с интензивен рубинено-червен цвят със силни тъмночервени тонове. Препоръчва се да се сервира охладено на 16-180C в комбинация с печени меса, специалитети на скара и различни видове сирене]]></description_bg>
+		<description_en><![CDATA[The wine is made by the barrique technology - aged in oak barrels. It is characterized by an intense ruby-red color with strong dark red tones. It is recommended to be served chilled at 16-180C in combination with roasted meats, grilled specialties and different types of cheese.]]></description_en>
+		<ingredients_bg><![CDATA[Вранец с контролиран произход, отлежавал в дъбови бъчви]]></ingredients_bg>
+		<ingredients_en><![CDATA[Vranets aged in oak barrels]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[-]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[16.95]]></price_per_piece>
+		<price_per_box><![CDATA[101.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[50.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1167]]></product_number>
+		<barcode_per_piece><![CDATA[5319990611079]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Мерло Pivka]]></name_bg>
+		<name_en><![CDATA[Merlot Pivka]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[750]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/7/33.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[17/24/35]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Пивка]]></brand_name_bg>
+		<brand_name_en><![CDATA[Pivka]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Вино]]></category_bg>
+		<category_en><![CDATA[Wine]]></category_en>
+		<description_bg><![CDATA[Сухо червено вино с контролиран произход от грозде, сорт Мерло, отглеждано на топъп и влажен средиземноморски климат. Има рубинено-червен цвят и не много интензивен, но богат аромат на гора и плодови нюанси, напомнящи смокиня и къпина. Вкусно и пивко вино, с леко изразени танини и дълъг и запомнящ се финал. Консумира се на 18°С с всички видове месо, грил и печени специалитети. Гроздето се бере напълно узряло, за да придаде богатство от аромати на виното.]]></description_bg>
+		<description_en><![CDATA[
+Dry red wine of controlled origin from grapes, Merlot variety, grown in a top and humid Mediterranean climate. It has a ruby-red color and not very intense, but rich aroma of forest and fruity nuances, reminiscent of figs and blackberries. Delicious and drinkable wine, with slightly pronounced tannins and a long and memorable finish. It is consumed at 18 ° C with all kinds of meat, grill and roasted specialties. The grapes are picked fully ripe to give a wealth of aromas to the wine.]]></description_en>
+		<ingredients_bg><![CDATA[Мерло с контролиран произход]]></ingredients_bg>
+		<ingredients_en><![CDATA[Merlot (30%) of controlled origin]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[-]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[59.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[29.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1168]]></product_number>
+		<barcode_per_piece><![CDATA[5319990611666]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Траминец Pivka]]></name_bg>
+		<name_en><![CDATA[Traminer Pivka]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[750]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/7/33.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[17/24/35]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Пивка]]></brand_name_bg>
+		<brand_name_en><![CDATA[Pivka]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Вино]]></category_bg>
+		<category_en><![CDATA[Wine]]></category_en>
+		<description_bg><![CDATA[Сухо бяло вино с контролиран произход. Виното се прави с гроздето от последната беритба на Тиквешките лозя. Отличава се с благороден аромат на пролетни цветя, сред които доминира розата. На вкус е богато и чувствено и дълго се помни със своята идентичност. Препоръчва се като аперитив и за консумация при 10-12°С със сладки десерти.]]></description_bg>
+		<description_en><![CDATA[Dry white wine of controlled origin. The wine is made with the grapes from the last harvest of the Tikvesh vineyards. It has a noble aroma of spring flowers, among which the rose dominates. It tastes rich and sensual and is long remembered for its identity. It is recommended as an aperitif and for consumption at 10-12 ° C with sweet desserts.]]></description_en>
+		<ingredients_bg><![CDATA[Траминер с контролиран произход]]></ingredients_bg>
+		<ingredients_en><![CDATA[Traminer of controlled origin]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[-]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[59.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[29.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+	<node>
+		<product_number><![CDATA[1169]]></product_number>
+		<barcode_per_piece><![CDATA[5319990611635]]></barcode_per_piece>
+		<barcode_per_box><![CDATA[]]></barcode_per_box>
+		<name_bg><![CDATA[Шардоне Pivka]]></name_bg>
+		<name_en><![CDATA[Chardonnay Pivka]]></name_en>
+		<weight_grams><![CDATA[]]></weight_grams>
+		<weight_mililiters><![CDATA[750]]></weight_mililiters>
+		<kgpieces_per_box><![CDATA[6]]></kgpieces_per_box>
+		<size_per_piece_cm><![CDATA[7/7/33.5]]></size_per_piece_cm>
+		<size_per_box_cm><![CDATA[17/24/35]]></size_per_box_cm>
+		<brand_name_bg><![CDATA[Пивка]]></brand_name_bg>
+		<brand_name_en><![CDATA[Pivka]]></brand_name_en>
+		<country_of_origin_bg><![CDATA[Северна Македония]]></country_of_origin_bg>
+		<country_of_origin_en><![CDATA[North Macedonia]]></country_of_origin_en>
+		<category_bg><![CDATA[Вино]]></category_bg>
+		<category_en><![CDATA[Wine]]></category_en>
+		<description_bg><![CDATA[Сухо бяло вино с контролиран произход. Има бистър цвят с много интензивни и силно изразени свежи зелено– жълти нюанси и приятен отблясък. Във вкусът му се откриват много силно изявени аромати на средиземноморски овошки. Охладено до 8°С, виното показва най-добре хармонията между алкохол и киселини. Вино без сезонен характер, подходящо за консумация през цялата година като аперитив, с предястие, с основно ястие и с десерт. Хармонизира се добре с месо, риба и морски специалитети и жълти сирена.]]></description_bg>
+		<description_en><![CDATA[
+Dry white wine of controlled origin. It has a clear color with very intense and strongly expressed fresh green-yellow shades and a pleasant sheen. Its taste has very strong aromas of Mediterranean fruit trees. Chilled to 8 ° C, the wine best shows the harmony between alcohol and acids. Wine without seasonal character, suitable for consumption throughout the year as an aperitif, with an appetizer, with a main course and with dessert.]]></description_en>
+		<ingredients_bg><![CDATA[Шардоне с контролиран произход]]></ingredients_bg>
+		<ingredients_en><![CDATA[Chardonnay of controlled origin]]></ingredients_en>
+		<allergens_bg><![CDATA[]]></allergens_bg>
+		<allergens_en><![CDATA[]]></allergens_en>
+		<kcal><![CDATA[]]></kcal>
+		<fat><![CDATA[]]></fat>
+		<fat_saturated><![CDATA[]]></fat_saturated>
+		<carbohydrates><![CDATA[]]></carbohydrates>
+		<carbohydrates_sugar><![CDATA[]]></carbohydrates_sugar>
+		<carbohydrates_fiber><![CDATA[]]></carbohydrates_fiber>
+		<protein><![CDATA[]]></protein>
+		<salt><![CDATA[]]></salt>
+		<durability_days><![CDATA[-]]></durability_days>
+		<storage_bg><![CDATA[На стайна температура. След отваряне съхранявай в хладилник.]]></storage_bg>
+		<storage_en><![CDATA[At room temperature.
+Аfter opening store in a refrigerator]]></storage_en>
+		<price_per_piece><![CDATA[9.95]]></price_per_piece>
+		<price_per_box><![CDATA[59.70 лв.]]></price_per_box>
+		<price_per_12box><![CDATA[29.85 лв.]]></price_per_12box>
+		<promo_price><![CDATA[]]></promo_price>
+		<note><![CDATA[]]></note>
+		<image_1><![CDATA[https://delicatessen.bg/images/delicatessen/katalog.jpg]]></image_1>
+		<image_1_2><![CDATA[]]></image_1_2>
+	</node>
+</data>

@@ -1,0 +1,52 @@
+/*
+ * All Responsive related CSS is here
+ *
+ */
+
+@media (max-width: 1440px) {
+    .elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product {
+        width: 356px;
+    }
+    .archive-title-column .elementor-widget-text-editor {
+        max-height: 120px;
+        padding-top: 0px;
+        overflow: hidden;
+        margin-left: -30px;
+        margin-right: -30px;
+    }
+    .archive-title-column .elementor-widget-theme-page-title {
+        margin-bottom: 30px;
+    }
+    .archive-title-column .elementor-widget-text-editor p {
+        padding: 0 4rem 1.5rem;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .elementor-container.elementor-column-gap-no .elementor-row .single-left-sitebar {
+        width: 300px
+    }
+    .elementor-container.elementor-column-gap-no .elementor-row .single-content {
+        width: 900px;
+    }
+    .elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product {
+        width: 276px;
+    }
+    .archive-title-column .elementor-widget-text-editor {
+        max-height: 76px;
+    }
+    .archive-title-column .elementor-widget-text-editor p {
+        padding: 0 3rem 1.5rem;
+        margin-top: -5px;
+    }
+    .archive-title-column .elementor-widget-theme-page-title {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 560px) {}

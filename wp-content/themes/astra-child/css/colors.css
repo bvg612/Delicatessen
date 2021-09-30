@@ -1,0 +1,145 @@
+/*
+ * All Colors related CSS is here
+ *
+ */
+
+
+/* #222b33 */
+
+
+/* Theme Main Color(s) */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+a,
+p,
+.single-page .elementor-widget-page-title h1,
+.pre-header-right ul.sub-menu.sm-nowrap .menu-title span,
+.main-header nav li span,
+.main-header .woocommerce.widget_product_search i,
+.main-header .cart-contents.header-button i,
+.text-widget-bottom .textwidget .btn-footer:hover,
+.text-widget-bottom .textwidget button:hover,
+#cbs-wrapper .single-subtitle h2 {
+    color: #222b33;
+}
+
+.pre-header,
+.pre-header ul span,
+.pre-header .textwidget p,
+.pre-header .pre-header-right ul a:hover span,
+#cbs-wrapper.image-500 .short-description span,
+.elementor-social-icon i:hover,
+.pre-header .pre-header-left span,
+.header-text-widget .textwidget a,
+.text-widget .textwidget p,
+.text-widget-bottom p,
+.text-widget .elementor-button-wrapper span,
+#btn-home i,
+#cbs-wrapper.image-500 .elementor-widget-post-info span,
+#cbs-wrapper.image-500 .elementor-widget-page-title h1,
+.cbs-footer,
+.text-widget-bottom span,
+.text-widget-bottom .elementor-widget-heading h3,
+.text-widget-bottom .textwidget a,
+.btn-main .elementor-button-link span.elementor-button-text,
+.btn-footer,
+.btn-main .elementor-button-link,
+.text-widget-bottom button,
+.text-widget .btn-header,
+.pre-header .textwidget a,
+#cbs-wrapper.image-500 .single-main-container1 h1,
+#cbs-wrapper.image-500 .single-short-description p,
+.cbs-sidebar .widgettitle,
+.button-wrapper a:hover i,
+.product_type_simple.add_to_cart_button.ajax_add_to_cart.added,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li a:hover span.current {
+    color: #ffffff
+}
+
+.pre-header,
+.cbs-footer,
+.btn-footer span:before,
+.btn-main .elementor-button-link span.elementor-button-text:before,
+.text-widget-bottom .textwidget button span:before,
+.btn-footer span:after,
+.btn-main .elementor-button-link span.elementor-button-text:after,
+.text-widget-bottom .textwidget button span:after,
+.cbs-sidebar .widgettitle,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.button-wrapper a:hover,
+.product_type_simple.add_to_cart_button.ajax_add_to_cart.added,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li a:hover {
+    background-color: #222b33;
+}
+
+.text-widget-bottom img,
+.btn-footer:hover span:before,
+.btn-footer:hover span:after,
+.btn-main .elementor-button-link:hover span.elementor-button-text:before,
+.btn-main .elementor-button-link:hover span.elementor-button-text:after,
+.text-widget-bottom .textwidget button:hover span::before,
+.text-widget-bottom .textwidget button:hover span:after,
+btn-main .elementor-button-link:hover span.elementor-button-text:before,
+.btn-footer:hover>span:before,
+.text-widget-bottom .textwidget button:hover span::before,
+.btn-main .elementor-button-link:hover span.elementor-button-text:after,
+.btn-footer:hover>span:after,
+.text-widget-bottom .textwidget button:hover span::after,
+.text-widget-bottom .opalelementor-nav-menu--mobile-enable.e--animation-fade a:after,
+.text-widget-bottom .opalelementor-nav-menu--mobile-enable.e--animation-fade .textwidget button:after,
+.elementor-widget-opal-nav-menu .opalelementor-nav-menu--main:not(.e--pointer-framed) .opalelementor-item:after {
+    background-color: #ffffff;
+}
+
+.pre-header .textwidget a::after,
+.sub-menu a:after,
+.pre-header .e--pointer-underline.e--animation-fade a.opalelementor-item.menu-link:after,
+.main-header .e--pointer-underline.e--animation-fade a.opalelementor-item.menu-link:after {
+    background-color: #b62e28;
+}
+
+.main-header nav li a:hover span,
+.pre-header ul a:hover span,
+.breadcrumbs a:hover span,
+.pre-header-right .sub-menu.opalelementor-nav-menu--dropdown.sm-nowrap a:hover span,
+.cbs-sidebar .widget ul a:hover::after,
+.woocommerce-page ul.products li.product .ast-woo-product-category {
+    color: #b62e28;
+}
+
+.header-text-widget .textwidget a:hover,
+.main-header a.cart-contents.header-button:hover,
+.main-header a.cart-contents.header-button:hover i,
+.text-widget-bottom .textwidget a:hover,
+#home .woocommerce.widget_product_search button:hover,
+.cbs-footer .opalelementor-nav-menu a span,
+.elementor-social-icon i {
+    color: #678199;
+}
+
+.main-header button>.wpisset-header-search-btn-horizontal-lines:after,
+.main-header button>.wpisset-header-search-btn-horizontal-lines:before,
+.main-header button>.wpisset-header-search-btn-vertical-lines:after,
+.main-header button>.wpisset-header-search-btn-vertical-lines:before {
+    background-color: #ebebeb;
+}
+
+.main-header button:hover>.wpisset-header-search-btn-horizontal-lines:before,
+.main-header button:hover>.wpisset-header-search-btn-horizontal-lines:after,
+.main-header button:hover>.wpisset-header-search-btn-vertical-lines:before,
+.main-header button:hover>.wpisset-header-search-btn-vertical-lines:after {
+    background-color: #67819957;
+}
+
+.woocommerce-Price-amount.amount,
+.woocommerce-Price-currencySymbol {
+    color: #555555;
+}

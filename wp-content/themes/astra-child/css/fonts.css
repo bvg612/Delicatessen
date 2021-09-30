@@ -1,0 +1,89 @@
+/*
+ * All Font size, etc. related CSS is here
+ *
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+a,
+p,
+.cbs-error h2.elementor-heading-title,
+.cbs-error p,
+.main-header nav li span,
+.text-widget-bottom .elementor-widget-heading h3,
+.pre-header .textwidget a,
+.pre-header ul span,
+.pre-header .textwidget p,
+.pre-header .pre-header-left span,
+.main-header nav li span,
+.breadcrumbs span,
+.archive-title-column .elementor-widget-theme-page-title h1,
+.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title,
+.woocommerce div.product .product-type-simple span.onsale {
+    font-family: 'Playfair Display', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.woocommerce-Price-amount.amount {
+    font-family: Oswald;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.woocommerce-Price-amount.amount .currency {
+    font-size: 12px;
+    font-family: Oswald;
+    font-weight: 500;
+}
+
+.single-page .elementor-widget-page-title h1 {
+    font-weight: 700;
+    font-family: 'Playfair Display', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 36px;
+}
+
+#cbs-wrapper .single-subtitle h2 {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#cbs-wrapper.image-500 .single-subtitle h2 {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.cbs-sidebar .widgettitle {
+    font-size: 20px;
+}
+
+.archive-title-column .elementor-widget-text-editor p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.price .woocommerce-Price-amount.cbs-style .precision {
+    font-size: 50%;
+    font-weight: normal;
+    font-family: inherit;
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}

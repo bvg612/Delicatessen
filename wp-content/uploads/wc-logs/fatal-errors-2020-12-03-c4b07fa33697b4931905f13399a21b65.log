@@ -1,0 +1,12 @@
+2020-12-03T08:00:46+00:00 CRITICAL Cannot redeclare cbs_register_sidebar() (previously declared in /home/projects/delicatessen.bg/wp/wp-content/themes/astra-child/functions.php:58) in /home/projects/delicatessen.bg/wp/wp-content/themes/astra-child/includes/sidebars.php on line 5
+
+2020-12-03T12:23:53+00:00 CRITICAL Uncaught Error: Call to a member function get_slug() on bool in /home/projects/delicatessen.bg/wp/wp-content/themes/astra-child/woocommerce/loop/add-to-cart.php:64
+Stack trace:
+#0 /home/projects/delicatessen.bg/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/projects/delicatessen.bg/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1305): wc_get_template('loop/add-to-car...', Array)
+#2 /home/projects/delicatessen.bg/wp/wp-content/themes/astra/inc/compatibility/woocommerce/woocommerce-common-functions.php(211): woocommerce_template_loop_add_to_cart()
+#3 /home/projects/delicatessen.bg/wp/wp-includes/class-wp-hook.php(287): astra_woo_woocommerce_shop_product_content('')
+#4 /home/projects/delicatessen.bg/wp/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/projects/delicatessen.bg/wp/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/projects/delicatessen.bg/wp/wp-content/plugins/woocommerce/templates/content- in /home/projects/delicatessen.bg/wp/wp-content/themes/astra-child/woocommerce/loop/add-to-cart.php on line 64
+
